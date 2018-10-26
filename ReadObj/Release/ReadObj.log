@@ -1,0 +1,21 @@
+﻿  main.cpp
+c:\users\zhao zihan\desktop\pac-man-2.8\readobj\move.h(29): warning C4101: “vz”: 未引用的局部变量
+c:\users\zhao zihan\desktop\pac-man-2.8\readobj\move.h(59): warning C4101: “vx”: 未引用的局部变量
+c:\users\zhao zihan\desktop\pac-man-2.8\readobj\move.h(59): warning C4101: “vy”: 未引用的局部变量
+c:\users\zhao zihan\desktop\pac-man-2.8\readobj\move.h(58): warning C4101: “j”: 未引用的局部变量
+c:\users\zhao zihan\desktop\pac-man-2.8\readobj\move.h(59): warning C4101: “vz”: 未引用的局部变量
+c:\users\zhao zihan\desktop\pac-man-2.8\readobj\texture.h(56): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\zhao zihan\desktop\pac-man-2.8\readobj\screenShot.h(37): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\zhao zihan\desktop\pac-man-2.8\readobj\screenShot.h(62): warning C4101: “clnHeight”: 未引用的局部变量
+c:\users\zhao zihan\desktop\pac-man-2.8\readobj\screenShot.h(62): warning C4101: “clnWidth”: 未引用的局部变量
+c:\users\zhao zihan\desktop\pac-man-2.8\readobj\screenShot.h(64): warning C4101: “rc”: 未引用的局部变量
+c:\users\zhao zihan\desktop\pac-man-2.8\readobj\control.h(49): warning C4101: “tx”: 未引用的局部变量
+c:\users\zhao zihan\desktop\pac-man-2.8\readobj\control.h(49): warning C4101: “ty”: 未引用的局部变量
+c:\users\zhao zihan\desktop\pac-man-2.8\readobj\control.h(49): warning C4101: “tz”: 未引用的局部变量
+c:\users\zhao zihan\desktop\pac-man-2.8\readobj\control.h(48): warning C4101: “ver”: 未引用的局部变量
+  正在生成代码
+  5 of 1507 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  ReadObj.vcxproj -> C:\Users\Zhao Zihan\Desktop\pac-man-2.8\Release\ReadObj.exe
